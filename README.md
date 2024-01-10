@@ -6,7 +6,7 @@
 
 <h2> :globe_with_meridians: Cybersecurity Projects:</h2>
 
-- [Pentester Playbook](https://github.com/your user name/LABURL
+- [Pentester Playbook](https://github.com/Bdotsoncloudadmin/PentestPlaybook)
 
 <h2>:page_facing_up: Certifications</h2>
 

@@ -4,6 +4,10 @@
 
 - [Tutorial Active Directory Home Lab](https://github.com/your user name/LABURL
 
+<h2> :globe_with_meridians: Cybersecurity Projects:</h2>
+
+- [Pentester Playbook](https://github.com/your user name/LABURL
+
 <h2>:page_facing_up: Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/4247b118-0cc0-4c9c-9590-b85c4542ef2e/public_url) 

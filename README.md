@@ -5,6 +5,7 @@
 - [Tutorial Active Directory Home Lab](https://github.com/Bdotsoncloudadmin/ActiveDirectoryLab)
 - [Tutorial For Beginners Microsoft Entra ID](https://youtube.com/playlist?list=PLQlo7TrrN3xd6DlPSqV19e7-CctR263Sr&feature=shared)
 
+
 <h2> :globe_with_meridians: Cybersecurity Projects:</h2>
 
 - [Pentester Playbook](https://github.com/Bdotsoncloudadmin/PentestPlaybook)
@@ -24,7 +25,8 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/brandonjdotson/
+[linkedin]: https://www.linkedin.com/in/brandonjdotson/ 
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC0qm9Wta6KJvvmuHQwkHrTQ)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

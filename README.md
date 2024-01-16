@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cloud Computing Projects:</h2>
 
 - [Tutorial Active Directory Home Lab](https://github.com/Bdotsoncloudadmin/ActiveDirectoryLab)
+- [Tutorial For Beginners Microsoft Entra ID](https://youtube.com/playlist?list=PLQlo7TrrN3xd6DlPSqV19e7-CctR263Sr&feature=shared)
 
 <h2> :globe_with_meridians: Cybersecurity Projects:</h2>
 

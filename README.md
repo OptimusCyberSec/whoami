@@ -5,7 +5,7 @@
 
 ### 🎓 Certifications
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-blue?style=for-the-badge&logo=comptia&logoColor=white)](YOUR_A_PLUS_VERIFICATION_LINK)
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cc41c992-9d20-4019-8376-a3ca64b9caeb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/cc41c992-9d20-4019-8376-a3ca64b9caeb/public_url)
 [![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-green?style=for-the-badge&logo=comptia&logoColor=white)](YOUR_NETWORK_PLUS_VERIFICATION_LINK)
 [![Microsoft Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](YOUR_AZ900_VERIFICATION_LINK)
 [![Microsoft AI Fundamentals](https://img.shields.io/badge/Microsoft-AI--900-purple?style=for-the-badge&logo=microsoft-azure&logoColor=white)](YOUR_AI900_VERIFICATION_LINK)

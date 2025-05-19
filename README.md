@@ -1,44 +1,46 @@
-<h1>Hi, I'm Brandon! <br/><a href="https://www.linkedin.com/in/brandonjdotson/">Azure Cloud Administrator</a> </h1>
+# Brandon Dotson
+## Cloud Architect
 
-<h2>👨‍💻 Cloud Computing Projects:</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-dotson/)
 
-- [Tutorial Active Directory Home Lab](https://github.com/Bdotsoncloudadmin/ActiveDirectoryLab)
-- [Tutorial For Beginners Microsoft Entra ID](https://youtube.com/playlist?list=PLQlo7TrrN3xd6DlPSqV19e7-CctR263Sr&feature=shared)
+### 🎓 Certifications
+[![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-blue?style=for-the-badge&logo=comptia&logoColor=white)](YOUR_A_PLUS_VERIFICATION_LINK)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)](YOUR_SECURITY_PLUS_VERIFICATION_LINK)
+[![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-green?style=for-the-badge&logo=comptia&logoColor=white)](YOUR_NETWORK_PLUS_VERIFICATION_LINK)
+[![Microsoft Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](YOUR_AZ900_VERIFICATION_LINK)
+[![Microsoft AI Fundamentals](https://img.shields.io/badge/Microsoft-AI--900-purple?style=for-the-badge&logo=microsoft-azure&logoColor=white)](YOUR_AI900_VERIFICATION_LINK)
 
+### 👋 About Me
+I am a passionate Cloud Architect specializing in designing and implementing scalable, resilient cloud solutions. My focus is on creating efficient infrastructure and optimizing cloud resources to drive business value.
 
-<h2> :globe_with_meridians: Cybersecurity Projects:</h2>
+### 🚀 Projects
 
-- [Pentester Playbook](https://github.com/Bdotsoncloudadmin/PentestPlaybook)
+#### Cloud Projects
+1. **AWS Infrastructure Automation**
+   - Implemented Infrastructure as Code using Terraform
+   - Automated deployment of multi-tier applications
+   - Created CI/CD pipelines for seamless deployment
 
-<h2>:page_facing_up: Certifications</h2>
+2. **Azure Cloud Migration**
+   - Led enterprise-level cloud migration projects
+   - Implemented hybrid cloud solutions
+   - Optimized cloud costs and resource utilization
 
-- [CompTIA Security+](https://www.credly.com/badges/4247b118-0cc0-4c9c-9590-b85c4542ef2e/public_url) 
+3. **Cloud Native Applications**
+   - Designed microservices architecture
+   - Implemented containerized solutions
+   - Managed Kubernetes clusters for optimal performance
 
-<h2>📺 Popular YouTube Videos</h2>
+### 💻 Technical Skills
+- **Cloud Platforms**: AWS, Azure, GCP
+- **Infrastructure as Code**: Terraform, CloudFormation
+- **Containerization**: Docker, Kubernetes
+- **CI/CD**: Jenkins, GitHub Actions
+- **Networking**: VPC, VPN, Load Balancing
+- **Monitoring**: CloudWatch, Azure Monitor, Prometheus
 
-- [How Hackers Breach Networks with Reverse Shells](https://www.youtube.com/watch?v=3TjUqLLcAHo)
-  
-<h2> 🤳 Connect with me:</h2>
+### 📫 Connect With Me
+Feel free to reach out for collaborations or discussions about cloud architecture!
 
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-[linkedin]: https://www.linkedin.com/in/brandonjdotson/ 
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC0qm9Wta6KJvvmuHQwkHrTQ)
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*"The cloud is not just about technology, it's about transformation." - Werner Vogels*

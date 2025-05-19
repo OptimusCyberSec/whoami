@@ -1,7 +1,7 @@
 # Brandon Dotson
 ## Cloud Architect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-dotson/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonjdotson/)
 
 ### 🎓 Certifications
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-blue?style=for-the-badge&logo=comptia&logoColor=white)](YOUR_A_PLUS_VERIFICATION_LINK)

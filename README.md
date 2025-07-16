@@ -86,14 +86,8 @@
 - [**Project Name 3**](LINK_TO_REPOSITORY) - Brief description of the project
 
 ### ☁️ **Cloud Infrastructure Projects**
-- [**Project Name 4**](LINK_TO_REPOSITORY) - Brief description of the project
-- [**Project Name 5**](LINK_TO_REPOSITORY) - Brief description of the project
-- [**Project Name 6**](LINK_TO_REPOSITORY) - Brief description of the project
-
-### 🔧 **Automation & Scripting Projects**
-- [**Project Name 7**](LINK_TO_REPOSITORY) - Brief description of the project
-- [**Project Name 8**](LINK_TO_REPOSITORY) - Brief description of the project
-- [**Project Name 9**](LINK_TO_REPOSITORY) - Brief description of the project
+- [**Terraform VM Creation**](https://github.com/OptimusCyberSec/terraform_vm_creation) - Infrastructure as Code project for automated virtual machine deployment using Terraform
+- [**Ansible Spotify Installer**](https://github.com/OptimusCyberSec/ansible-spotify-installer) - Ansible automation playbook for automated Spotify application installation and configuration
 
 ---
 
@@ -141,7 +135,6 @@ I'm always excited to discuss **cybersecurity strategies**, **cloud security arc
   
   🛡️ **#CyberSecurity #CloudSecurity #WGU #InfoSec #DefendTheDigital** 🛡️
 </div>
-
 
 
 

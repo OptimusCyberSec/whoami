@@ -82,7 +82,6 @@
 
 ### 🛡️ **Cybersecurity Projects**
 - [**Project Name 1**](LINK_TO_REPOSITORY) - Brief description of the project
-- [**Project Name 2**](LINK_TO_REPOSITORY) - Brief description of the project
 
 ### ☁️ **Cloud Infrastructure Projects**
 - [**Terraform VM Creation**](https://github.com/OptimusCyberSec/terraform_vm_creation) - Infrastructure as Code project for automated virtual machine deployment using Terraform
